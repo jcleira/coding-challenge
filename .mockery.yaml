@@ -1,0 +1,6 @@
+inpackage: False
+output: ./mocks
+testonly: False
+keeptree: False
+disable-version-string: True
+case: snake
